@@ -31,22 +31,25 @@ Azure Bot Service, QnA Maker, Static Web Apps
 Other Azure Technologies : App Service
 
 ## Home Page
-![screenshot3](https://user-images.githubusercontent.com/105979237/170709423-b588ed51-3778-4c5d-963b-f936048be0c8.jpg)
-![screenshot4](https://user-images.githubusercontent.com/105979237/170709475-88bff1d5-b3ac-453f-afee-226006e7f1dd.jpg)
-![screenshot5](https://user-images.githubusercontent.com/105979237/170709500-0eee4835-11d6-44de-b956-a95e5e277c82.jpg)
-![screenshot6](https://user-images.githubusercontent.com/105979237/170709629-ab7f0c44-706a-4dfc-b816-8a2b99ec1bad.jpg)
+![screenshot3](https://user-images.githubusercontent.com/61199213/175829227-6bc1f09b-30af-46b0-a864-58d1ca0f16ff.jpg)
 
+![screenshot4](https://user-images.githubusercontent.com/105979237/170709475-88bff1d5-b3ac-453f-afee-226006e7f1dd.jpg)
+
+![screenshot5](https://user-images.githubusercontent.com/105979237/170709500-0eee4835-11d6-44de-b956-a95e5e277c82.jpg)
+
+![screenshot7](https://user-images.githubusercontent.com/61199213/175829232-ab611ed5-3fec-4cc8-8fc2-6d03805b2f34.jpg)
 ## Product Page
-![screenshot7](https://user-images.githubusercontent.com/105979237/170709745-38d019a6-b94a-4a0b-bb59-9f1b9d167534.jpg)
+
+![screenshot8](https://user-images.githubusercontent.com/61199213/175829233-8b9fbfc1-15c6-4242-9c19-6fdb57fb79f9.jpg)
 
 ## Product Details Page
-![screenshot8](https://user-images.githubusercontent.com/105979237/170709801-ece802be-3b08-4969-9cde-9b35aa0fa8fa.jpg)
+![screenshot7](https://user-images.githubusercontent.com/61199213/175829766-389cb9b1-bcbc-4889-8d70-87b47b5fe161.jpg)
 
 ## AboutUs Page
 ![screenshot14](https://user-images.githubusercontent.com/105979237/170709900-830baa0e-282b-403c-9bdb-e51d009b158e.jpg)
 
 ## Account Page
-![screenshot16](https://user-images.githubusercontent.com/105979237/170710333-5c7e5c36-5f52-4e01-b7f1-57d3040fb2aa.jpg)
+![screenshot16](https://user-images.githubusercontent.com/61199213/175829234-e8af0829-6e51-4b18-8a6a-263b08376e9c.jpg)
 
 ## Contact Page
 ![screenshot15](https://user-images.githubusercontent.com/105979237/170710033-dba8c38c-6b31-4e4f-8ee3-62517d7e42c0.jpg)
@@ -55,6 +58,7 @@ Other Azure Technologies : App Service
 ![screenshot17](https://user-images.githubusercontent.com/105979237/170710098-c5298410-9f71-4a0e-bcae-69ee95c27177.jpg)
 
 ## Azure portal Screenshot
-![screenshot1](https://user-images.githubusercontent.com/105979237/170710489-e691980a-65e1-4b73-a0e7-bc76f74d32f5.jpg)
-![screenshot2](https://user-images.githubusercontent.com/105979237/170710513-e4202899-ecb0-42c6-81f2-136c9d0535ef.jpg)
+![screenshot1](https://user-images.githubusercontent.com/61199213/175828983-789320dd-e80f-4593-b5fd-edb3b7c886a9.jpg)
+
+![screenshot2](https://user-images.githubusercontent.com/61199213/175829040-5c3e200b-ea1e-4ac5-b01b-c99b837da69d.jpg)
 
